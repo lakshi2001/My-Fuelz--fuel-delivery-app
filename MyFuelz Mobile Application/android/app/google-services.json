@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "298003809430",
+    "firebase_url": "https://myfuelz-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "myfuelz",
+    "storage_bucket": "myfuelz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298003809430:android:2f7546af14cc8d7d636eb7",
+        "android_client_info": {
+          "package_name": "uni.myfuelz.myfuelz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298003809430-823fr1a8df5pepf325dnd57re1tib93b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uni.myfuelz.myfuelz",
+            "certificate_hash": "3e8a43b1ec0d0a46641fe2c34d73b906ab670e55"
+          }
+        },
+        {
+          "client_id": "298003809430-rcp16h2jff07jhgbb33rbf80uevusgvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAECuJvH9OWah2bax6xH4AZWXZ0d1Bkoqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298003809430-rcp16h2jff07jhgbb33rbf80uevusgvd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
